@@ -1,3 +1,3 @@
 <?php 
-echo "Halo World 2020";
+echo "Hello World 2020";
 ?>
